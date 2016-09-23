@@ -1,7 +1,10 @@
 # Afterpay magento extension changelog
 Copyright (c) 2016 AfterPay (http://afterpay.com.au/)
 
-### 0.12.8 - 2016-05-26
+### 0.12.10 - 2016-09-23
+ - Added order processing timeout to accommodate token refresh
+
+ ### 0.12.8 - 2016-05-26
  - SKU truncation
 
 ### 0.12.7 - 2016-05-25
